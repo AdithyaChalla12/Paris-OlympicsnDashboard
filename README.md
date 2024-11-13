@@ -1,6 +1,6 @@
 # Olympic Games Dashboard
 
-![Olympic Games Dashboard](path/to/Olympic%20Games.png)
+![Olympic Games Dashboard](https://github.com/AdithyaChalla12/Paris-OlympicsnDashboard/blob/main/Dataset/Olympic%20Games.png)
 
 This Power BI dashboard provides a comprehensive overview of the Olympic Games, highlighting key metrics, insights, and visualizations to showcase medal counts, athlete participation, and country performance.
 
